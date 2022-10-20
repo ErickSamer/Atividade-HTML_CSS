@@ -1,0 +1,7 @@
+body { 
+    background-image: url(../Imagens/curso_extensao.png);
+    background-size: cover;
+    border: 2px solid;
+    color: Black;
+    font: 12pt Arial; }
+h1, h2, h3 { font-family: 'Pacifico'; font-weight: normal;}
